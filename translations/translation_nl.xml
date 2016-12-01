@@ -7,7 +7,7 @@
 		<text name="COURSEPLAY_UNLOADING_DRIVER_STOP" 					 text="Stop bestuurder" />
 		<text name="COURSEPLAY_STOP_AT_LAST_POINT" 						 text="Stop bij laatste punt of volgende trigger" />
 		<text name="COURSEPLAY_UNLOADING_SIDE" 							 text="Bestuurderszijde" />
-		<text name="COURSEPLAY_UNLOADING_SIDE_NONE" 					 text="automatisch" />
+		<text name="COURSEPLAY_UNLOADING_SIDE_NONE" 					 text="Automatisch" />
 		<text name="COURSEPLAY_LEFT" 									 text="links" />
 		<text name="COURSEPLAY_RIGHT" 									 text="rechts" />
 		<text name="COURSEPLAY_UNLOADING_DRIVER_SEND_HOME" 				 text="Stuur bestuurder weg" />
@@ -39,18 +39,18 @@
 		<text name="COURSEPLAY_FILTER_COURSES" 							 text="Filter routes:" />
 		<text name="COURSEPLAY_BUTTON_RETURN" 							 text="Return" />					<!-- TODO: TRANSLATION! (This is the name of the Return Button) -->
 		<text name="COURSEPLAY_BUTTON_ESC" 								 text="ESC" />						<!-- TODO: TRANSLATION! (This is the short text of the Escape Button) -->
-		<text name="COURSEPLAY_CANCEL_WITH" 							 text="%s to Cancel" />				<!-- TODO: TRANSLATION! -->
-		<text name="COURSEPLAY_SAVE_COURSE_WITH" 						 text="%s to Save Course" />		<!-- TODO: TRANSLATION! -->
-		<text name="COURSEPLAY_SAVE_FOLDER_NAME_WITH" 					 text="%s to Save Folder" />		<!-- TODO: TRANSLATION! -->
-		<text name="COURSEPLAY_FILTER_COURSE_WITH" 						 text="%s to Filter Courses" />		<!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_CANCEL_WITH" 							 text="%s om te annuleren" />				<!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_SAVE_COURSE_WITH" 						 text="%s om Route te bewaren" />		<!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_SAVE_FOLDER_NAME_WITH" 					 text="%s Save map met naam" />		<!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_FILTER_COURSE_WITH" 						 text="%s om routes te filteren" />		<!-- TODO: TRANSLATION! -->
 		<text name="COURSEPLAY_COURSES_FILTER_TITLE" 					 text="Route: %q" />
 		<text name="COURSEPLAY_CREATE_FOLDER" 							 text="Maak map aan" />
 		<text name="COURSEPLAY_SEARCH_FOR_COURSES_AND_FOLDERS" 			 text="Zoek routes en mappen" />
 		<text name="COURSEPLAY_DEACTIVATE_FILTER" 						 text="Filter uitschakelen" />
-		<text name="COURSEPLAY_REACHED_OVERLOADING_POINT" 				 text="overlaad punt bereikt." />
+		<text name="COURSEPLAY_REACHED_OVERLOADING_POINT" 				 text="overlaadpunt bereikt." />
 		<text name="COURSEPLAY_REACHED_WAITING_POINT" 					 text="wachtpunt bereikt" />
 		<text name="COURSEPLAY_REACHED_END_POINT" 						 text="trigger bereikt/eindpunt" />
-		<text name="COURSEPLAY_REACHED_END_POINT_MODE_1" 				 text="has finished grain transport." />  <!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_REACHED_END_POINT_MODE_1" 				 text="heeft graantransport beeindigd." />  <!-- TODO: TRANSLATION! -->
 		<text name="COURSEPLAY_WORK_END" 								 text="werk afgerond." />
 		<text name="COURSEPLAY_NEEDS_UNLOADING" 						 text=": gereedschap legen." />
 		<text name="COURSEPLAY_NEEDS_REFILLING" 						 text=": gereedschap vullen." />
@@ -60,9 +60,9 @@
 		<text name="COURSEPLAY_LOADING_AMOUNT" 							 text="Laden: %d of %d" />
 		<text name="COURSEPLAY_WAYPOINT_MODE" 							 text="Toon markeringen" />
 		<text name="COURSEPLAY_PATHFINDING" 							 text="Om gewas rijden" />
-		<text name="COURSEPLAY_COMBINE_OFFSET_HORIZONTAL" 				 text="Zijwaardse afstand:" />
+		<text name="COURSEPLAY_COMBINE_OFFSET_HORIZONTAL" 				 text="Zijwaartse afstand:" />
 		<text name="COURSEPLAY_START_AT" 								 text="Start bij:" />
-		<text name="COURSEPLAY_TURN_ON_FIELD"					 		 text="Turn on field:" />  <!-- Need Translation! -->
+		<text name="COURSEPLAY_TURN_ON_FIELD"					 		 text="Draai op veld:" />  <!-- Need Translation! -->
 		<text name="COURSEPLAY_TURN_RADIUS" 							 text="Draaicirkel:" />
 		<text name="COURSEPLAY_COMBINE_OFFSET_VERTICAL" 				 text="Verticale afstand:" />
 		<text name="COURSEPLAY_COMBINE" 								 text="Combine" />
@@ -70,21 +70,21 @@
 		<text name="COURSEPLAY_CHOOSE_COMBINE" 							 text="Kies combine:" />
 		<text name="COURSEPLAY_COMBINE_SEARCH_MODE" 					 text="Zoek combine:" />
 		<text name="COURSEPLAY_CURRENT" 								 text="Huidige:" />
-		<text name="COURSEPLAY_AUTOMATIC_SEARCH" 						 text="automatisch zoeken" />
-		<text name="COURSEPLAY_MANUAL_SEARCH" 							 text="kies handmatig" />
+		<text name="COURSEPLAY_AUTOMATIC_SEARCH" 						 text="Automatisch zoeken" />
+		<text name="COURSEPLAY_MANUAL_SEARCH" 							 text="Kies handmatig" />
 		<text name="COURSEPLAY_SEARCH_COMBINE_ON_FIELD" 				 text="Zoek combine in veld %s" />
 		<text name="COURSEPLAY_COPY_COURSE" 							 text="Kopieër route:" />
 		<text name="COURSEPLAY_VEHICLE" 								 text="Voertuig" />
 		<text name="COURSEPLAY_TEMP_COURSE" 							 text="Tijdelijke route" />
-		<text name="COURSEPLAY_SPEED_TURN" 								 text="Draai snelheid:" />
-		<text name="COURSEPLAY_SPEED_FIELD" 							 text="Veld snelheid:" />
-		<text name="COURSEPLAY_SPEED_MAX" 								 text="Weg snelheid:" />
+		<text name="COURSEPLAY_SPEED_TURN" 								 text="Draaisnelheid:" />
+		<text name="COURSEPLAY_SPEED_FIELD" 							 text="Veldsnelheid:" />
+		<text name="COURSEPLAY_SPEED_MAX" 								 text="Wegsnelheid:" />
 		<text name="COURSEPLAY_SPEED_REVERSING" 						 text="Achteruit Snelheid" />
 		<text name="COURSEPLAY_MAX_SPEED_MODE" 							 text="Snelheid:" />
-		<text name="COURSEPLAY_MAX_SPEED_MODE_RECORDING" 				 text="van opname" />
-		<text name="COURSEPLAY_MAX_SPEED_MODE_MAX" 						 text="maximum snelheid" />
-		<text name="COURSEPLAY_MAX_SPEED_MODE_AUTOMATIC" 				 text="automatisch (van opname, max. %s)" />
-		<text name="COURSEPLAY_NO_COURSE_LOADED" 						 text="route: geen route geladen" />
+		<text name="COURSEPLAY_MAX_SPEED_MODE_RECORDING" 				 text="Van opname" />
+		<text name="COURSEPLAY_MAX_SPEED_MODE_MAX" 						 text="Maximum snelheid" />
+		<text name="COURSEPLAY_MAX_SPEED_MODE_AUTOMATIC" 				 text="Automatisch (van opname, max. %s)" />
+		<text name="COURSEPLAY_NO_COURSE_LOADED" 						 text="Route: geen route geladen" />
 		<text name="COURSEPLAY_WARNING_LIGHTS" 							 text="Alarmlichten:" />
 		<text name="COURSEPLAY_WARNING_LIGHTS_MODE_0" 					 text="altijd uit" />
 		<text name="COURSEPLAY_WARNING_LIGHTS_MODE_1" 					 text="zwaailicht aan (op de weg)" />
@@ -114,15 +114,15 @@
 		<text name="COURSEPLAY_WAITING_FOR_COMBINE_TURNED" 				 text="Wacht tot combine gedraaid is" />
 		<text name="COURSEPLAY_WAITING_FOR_WAYPOINT" 					 text="Wacht op nieuwe markering" />
 		<text name="COURSEPLAY_FOLLOWING_TRACTOR" 						 text="Volg tractor" />
-		<text name="COURSEPLAY_SHOULD_BE_REFUELED" 						 text="moet spoedig bijgetankt worden" />
-		<text name="COURSEPLAY_MUST_BE_REFUELED" 						 text="moet bijgetankt worden" />
-		<text name="COURSEPLAY_IS_BEING_REFUELED" 						 text="wordt bijgetankt" />
+		<text name="COURSEPLAY_SHOULD_BE_REFUELED" 						 text="Moet spoedig bijgetankt worden" />
+		<text name="COURSEPLAY_MUST_BE_REFUELED" 						 text="Moet bijgetankt worden" />
+		<text name="COURSEPLAY_IS_BEING_REFUELED" 						 text="Wordt bijgetankt" />
 		<text name="COURSEPLAY_WAITING_POINTS_TOO_MANY" 				 text="Teveel markeringen! Maar %d toegestaan." />
 		<text name="COURSEPLAY_WAITING_POINTS_TOO_FEW" 					 text="Te weinig markeringen! %d nodig." />
 		<text name="COURSEPLAY_WRONG_TRAILER" 							 text="Verkeerde trailer voor deze modus" />
-		<text name="COURSEPLAY_WRONG_TOOL" 								 text="verkeerde gereedschap voor deze modus" />
+		<text name="COURSEPLAY_WRONG_TOOL" 								 text="Verkeerd gereedschap voor deze modus" />
 		<text name="COURSEPLAY_MODE_NOT_SUPPORTED_FOR_VEHICLETYPE" 		 text="Dit voertuig wordt nu niet ondersteund" />
-		<text name="COURSEPLAY_WEATHER_WARNING" 						 text="wacht op beter weer" />
+		<text name="COURSEPLAY_WEATHER_WARNING" 						 text="Wacht op beter weer" />
 		<text name="COURSEPLAY_LANE_OFFSET" 							 text="Baan uit lijn" />
 		<text name="COURSEPLAY_TOOL_OFFSET_X" 							 text="Gereedschap uit lijn horizontaal" />
 		<text name="COURSEPLAY_TOOL_OFFSET_Z" 							 text="Gereedschap uit lijn verticaal" />
@@ -130,7 +130,7 @@
 		<text name="COURSEPLAY_BACK" 									 text="achterzijde" />
 		<text name="COURSEPLAY_WORK_WIDTH" 								 text="Werkbreedte" />
 		<text name="COURSEPLAY_WATER_WARNING" 							 text="gaat zwemmen" />
-		<text name="COURSEPLAY_OPEN_HUD_MODE" 							 text="open Courseplay:" />
+		<text name="COURSEPLAY_OPEN_HUD_MODE" 							 text="Open Courseplay:" />
 		<text name="COURSEPLAY_DEBUG_CHANNELS" 							 text="Debug channels" />
 		<text name="COURSEPLAY_PAGE_TITLE_COURSE_GENERATION" 			 text="Route genereren" />
 		<text name="COURSEPLAY_STARTING_CORNER" 						 text="Start hoek" />
@@ -151,7 +151,7 @@
 		<text name="COURSEPLAY_UNLOADING_ON_FIELD" 						 text="Uitladen in het veld" />
 		<text name="COURSEPLAY_AUTOMATIC" 								 text="automatisch" />
 		<text name="COURSEPLAY_MANUAL" 									 text="handmatig" />
-		<text name="COURSEPLAY_TURN_MANEUVER" 							 text="Draai beweging:" />
+		<text name="COURSEPLAY_TURN_MANEUVER" 							 text="Draai-beweging:" />
 		<text name="COURSEPLAY_START" 									 text="Start" />
 		<text name="COURSEPLAY_FINISH" 									 text="Finish" />
 		<text name="COURSEPLAY_NO_VALID_COURSE" 						 text="Geen route geladen" />
@@ -160,24 +160,24 @@
 		<text name="COURSEPLAY_SHOVEL_NOT_FOUND" 						 text="Geen shovel gevonden" />
 		<text name="COURSEPLAY_SHOVEL_POSITIONS" 						 text="Shovel posities" />
 		<text name="COURSEPLAY_SHOVEL_POSITIONS_MISSING" 				 text="Shovel posities ontbreken" />
-		<text name="COURSEPLAY_SHOVEL_LOADING_POSITION" 				 text="Laad positie" />
-		<text name="COURSEPLAY_SHOVEL_TRANSPORT_POSITION" 				 text="Transport positie" />
-		<text name="COURSEPLAY_SHOVEL_PRE_UNLOADING_POSITION" 			 text="Aanvang los positie" />
-		<text name="COURSEPLAY_SHOVEL_UNLOADING_POSITION" 				 text="Los positie" />
-		<text name="COURSEPLAY_SHOVEL_SAVE_LOADING_POSITION" 			 text="Bewaar laad positie" /> 
-		<text name="COURSEPLAY_SHOVEL_SAVE_TRANSPORT_POSITION" 			 text="Bewaar transport positie" /> 
-		<text name="COURSEPLAY_SHOVEL_SAVE_PRE_UNLOADING_POSITION" 		 text="Bewaar aanvang los positie" /> 
-		<text name="COURSEPLAY_SHOVEL_SAVE_UNLOADING_POSITION" 			 text="Bewaar los positie" /> 
-		<text name="COURSEPLAY_SHOVEL_MOVE_TO_LOADING_POSITION" 		 text="Ga naar laad positie" /> 
-		<text name="COURSEPLAY_SHOVEL_MOVE_TO_TRANSPORT_POSITION" 		 text="Ga naar transport positie" /> 
-		<text name="COURSEPLAY_SHOVEL_MOVE_TO_PRE_UNLOADING_POSITION" 	 text="Ga naar aanvang los positie" /> 
-		<text name="COURSEPLAY_SHOVEL_MOVE_TO_UNLOADING_POSITION" 		 text="Ga naar los positie" /> 		
+		<text name="COURSEPLAY_SHOVEL_LOADING_POSITION" 				 text="Laad-positie" />
+		<text name="COURSEPLAY_SHOVEL_TRANSPORT_POSITION" 				 text="Transport-positie" />
+		<text name="COURSEPLAY_SHOVEL_PRE_UNLOADING_POSITION" 			 text="Aanvang los-positie" />
+		<text name="COURSEPLAY_SHOVEL_UNLOADING_POSITION" 				 text="Los-positie" />
+		<text name="COURSEPLAY_SHOVEL_SAVE_LOADING_POSITION" 			 text="Bewaar laad-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_SAVE_TRANSPORT_POSITION" 			 text="Bewaar transport-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_SAVE_PRE_UNLOADING_POSITION" 		 text="Bewaar Begin los-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_SAVE_UNLOADING_POSITION" 			 text="Bewaar los-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_MOVE_TO_LOADING_POSITION" 		 text="Ga naar laad-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_MOVE_TO_TRANSPORT_POSITION" 		 text="Ga naar transport-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_MOVE_TO_PRE_UNLOADING_POSITION" 	 text="Ga naar Begin los-positie" /> 
+		<text name="COURSEPLAY_SHOVEL_MOVE_TO_UNLOADING_POSITION" 		 text="Ga naar los-positie" /> 		
 		<text name="COURSEPLAY_SHOVEL_STOP_AND_GO" 						 text="Stop + Go Laden" />
 		
 		<text name="COURSEPLAY_START_AT_POINT" 							 text="Route starten bij:" />
-		<text name="COURSEPLAY_NEAREST_POINT" 							 text="volgende markering" />
-		<text name="COURSEPLAY_FIRST_POINT" 							 text="eerste markering" />
-		<text name="COURSEPLAY_CURRENT_POINT" 							 text="huidige markering" />
+		<text name="COURSEPLAY_NEAREST_POINT" 							 text="Volgende markering" />
+		<text name="COURSEPLAY_FIRST_POINT" 							 text="Eerste markering" />
+		<text name="COURSEPLAY_CURRENT_POINT" 							 text="Huidige markering" />
 		<text name="COURSEPLAY_FIELD_EDGE_PATH" 						 text="Veldrand route" />
 		<text name="COURSEPLAY_FIELD" 									 text="Veld" />
 		<text name="COURSEPLAY_CURRENTLY_LOADED_COURSE" 				 text="(huidige route)" />
@@ -186,15 +186,15 @@
 		<text name="COURSEPLAY_HOSEMISSING" 							 text="Geen vulslang gevonden, vullen geannuleerd" />
 		<text name="COURSEPLAY_SYMMETRIC_LANE_CHANGE" 					 text="Evenwijdige baanwissel" />
 		<text name="COURSEPLAY_UNLOADING_DRIVER_PRIORITY" 				 text="Bestuurder voorrang" />
-		<text name="COURSEPLAY_FILLEVEL" 								 text="vul graad" />
+		<text name="COURSEPLAY_FILLEVEL" 								 text="Vulgraad" />
 		<text name="COURSEPLAY_PICKUP_JAMMED" 							 text=": pickup zit vast" />
-		<text name="COURSEPLAY_BALER_NEEDS_NETS" 						 text=": Balenpers behoeft nieuwe wikkeling" />
+		<text name="COURSEPLAY_BALER_NEEDS_NETS" 						 text=": Nieuwe wikkeling nodig voor balenpers" />
 		<text name="COURSEPLAY_SCAN_CURRENT_FIELD_EDGES" 				 text="Bereken huidige veldomtrek" />
 		<text name="COURSEPLAY_CURRENT_FIELD_EDGE_PATH_NUMBER" 			 text="Veldomtrek nummer" />
 		<text name="COURSEPLAY_ADD_CUSTOM_FIELD_EDGE_PATH_TO_LIST" 		 text="Voeg veld %d omtrek toe aan lijst" />
 		<text name="COURSEPLAY_OVERWRITE_CUSTOM_FIELD_EDGE_PATH_IN_LIST" text="Overschrijf veld %d omtrek in lijst" />
 		<text name="COURSEPLAY_USER" 									 text="Gebruiker" />
-		<text name="COURSEPLAY_DAMAGE_SHOULD_BE_REPAIRED" 				 text="Dient spoedig hersteld te worden" />
+		<text name="COURSEPLAY_DAMAGE_SHOULD_BE_REPAIRED" 				 text="Moet spoedig hersteld te worden" />
 		<text name="COURSEPLAY_DAMAGE_MUST_BE_REPAIRED" 				 text="Moet hersteld worden" />
 		<text name="COURSEPLAY_DAMAGE_IS_BEING_REPAIRED" 				 text="Wordt hersteld" />
 		<text name="COURSEPLAY_COVER_HANDLING" 							 text="Zeilen" />
@@ -203,10 +203,10 @@
 		<text name="COURSEPLAY_SLIPPING_WARNING" 						 text="Slippend" />
 		<text name="COURSEPLAY_REFILL_UNTIL_PCT" 						 text="Bijvullen tot:" />
 		<text name="COURSEPLAY_BGA_IS_FULL" 							 text=": Bunker silo is vol!" />
-		<text name="COURSEPLAY_FARM_SILO_NO_FILLTYPE" 					 text="Boerderij Silo heeft niet de juiste vulling" />
-		<text name="COURSEPLAY_FARM_SILO_FILL_TYPE" 					 text="Boerderij Silo laadt:" />
-		<text name="COURSEPLAY_FARM_SILO_IS_EMPTY" 						 text="Farm Silo is leeg! Waiting for more." />  <!-- TODO: TRANSLATION! Translate new added text. -->
-		<text name="COURSEPLAY_FARM_SILO_IS_FULL" 						 text=": Farm silo is full! Continuing to next silo." />  <!-- TODO: TRANSLATION! -->
+		<text name="COURSEPLAY_FARM_SILO_NO_FILLTYPE" 					 text="Boerderij-silo heeft niet het juiste product" />
+		<text name="COURSEPLAY_FARM_SILO_FILL_TYPE" 					 text="Boerderij-silo laadt:" />
+		<text name="COURSEPLAY_FARM_SILO_IS_EMPTY" 						 text="Boerderij-silo is leeg! Wachten voor meer." />  <!-- TODO: TRANSLATION! Translate new added text. -->
+		<text name="COURSEPLAY_FARM_SILO_IS_FULL" 						 text=": Boerderij-silo is vol! Ga naar volgende silo." />  <!-- TODO: TRANSLATION! -->
 		<text name="COURSEPLAY_STARTING_UP_TOOL" 						 text="Opstarten %s!" />
 		<text name="COURSEPLAY_SEARCH_FOR_FIRST_WAYPOINT" 				 text="Eerste markering zoeken" />
 		<text name="COURSEPLAY_SAVE_CURRENT_COURSE" 					 text="Huidige route opslaan" />
@@ -214,20 +214,20 @@
 		<text name="COURSEPLAY_RECORDING_PAUSE" 						 text="Vastleggen pauzeren" />
 		<text name="COURSEPLAY_RECORDING_PAUSE_RESUME" 					 text="Vastleggen hervatten" />
 		<text name="COURSEPLAY_RECORDING_DELETE" 						 text="Laatste markering verwijderen" />
-		<text name="COURSEPLAY_RECORDING_SET_WAIT" 						 text="Wachtpunt plaatsten" />
+		<text name="COURSEPLAY_RECORDING_SET_WAIT" 						 text="Wachtpunt plaatsen" />
 		<text name="COURSEPLAY_RECORDING_SET_CROSS" 					 text="Kruising plaatsen" />
 		<text name="COURSEPLAY_RECORDING_TURN_START" 					 text="Bocht starten" />
 		<text name="COURSEPLAY_RECORDING_TURN_END" 						 text="Bocht stoppen" />
-		<text name="COURSEPLAY_RECORDING_REVERSE_START" 				 text="Achteruit rijden starten" />
-		<text name="COURSEPLAY_RECORDING_REVERSE_STOP" 					 text="Achteruit rijden stoppen" />	
+		<text name="COURSEPLAY_RECORDING_REVERSE_START" 				 text="Achteruitrijden starten" />
+		<text name="COURSEPLAY_RECORDING_REVERSE_STOP" 					 text="Achteruitrijden stoppen" />	
 		<text name="COURSEPLAY_RECORDING_ADD_SPLIT_POINTS"				 text="Voeg tussenpunten toe" />
 		<text name="COURSEPLAY_INGAMEMAP_ICONS_SHOWTEXT" 				 text="Map iconen, toon tekst" />
 		<text name="COURSEPLAY_ALWAYS_USE_4WD" 							 text="Altijd 4x4" />
 		<text name="COURSEPLAY_YES_NO_FIELDSCAN" 						 text="Velden automatisch scannen?" />
 		<text name="COURSEPLAY_YES_NO_WAGES" 							 text="Wilt u de arbeiders belonen (%s/uur)?" />
-		<text name="COURSEPLAY_SEEDUSAGECALCULATOR" 					 text="Zaad verbruik calculator" />
+		<text name="COURSEPLAY_SEEDUSAGECALCULATOR" 					 text="Zaad-verbruik calculator" />
 		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_FIELD" 				 text="Veld: %d (%s %s)" />
-		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_SEEDTYPE" 			 text="Zaad soort: %s" />
+		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_SEEDTYPE" 			 text="Zaadsoort: %s" />
 		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_USAGE" 				 text="Verbruik: %s %s (%s)" />
 		<text name="COURSEPLAY_HUD_OPEN" 								 text="Toon Courseplay HUD" />
 		<text name="COURSEPLAY_HUD_CLOSE" 								 text="Verberg Courseplay HUD" />
@@ -235,21 +235,21 @@
 		<text name="input_COURSEPLAY_MODIFIER" 								 text="Courseplay: instellingen" />
 		<text name="input_COURSEPLAY_MENU_ACCEPT_SECONDARY" 					 text="Courseplay: tweede menu accepteren" />
 		<text name="input_COURSEPLAY_HUD" 									 text="Toon/verberg Courseplay HUD" />
-		<text name="input_COURSEPLAY_START_STOP" 								 text="Courseplay: rijd route/stop bestuurder" />
-		<text name="input_COURSEPLAY_CANCELWAIT" 								 text="Courseplay: stop bij laatste punt of volgende trigger" />
-		<text name="input_COURSEPLAY_DRIVENOW" 								 text="Courseplay: nu rijden" />
-		<text name="input_COURSEPLAY_NEXTMODE" 								 text="Courseplay: volgende modus" />
-		<text name="input_COURSEPLAY_PREVMODE" 								 text="Courseplay: vorige modus" />
-		<text name="input_COURSEPLAY_MOUSEACTION_PRIMARY" 					 text="Courseplay: muis actie" />
-		<text name="input_COURSEPLAY_MOUSEACTION_SECONDARY" 					 text="Courseplay: secundaire muis actie" />
-		<text name="COURSEPLAY_MOUSEARROW_SHOW" 						 text="toon cursor" />
-		<text name="COURSEPLAY_MOUSEARROW_HIDE" 						 text="verberg cursor" />
+		<text name="input_COURSEPLAY_START_STOP" 								 text="Courseplay: Rijd route/Stop bestuurder" />
+		<text name="input_COURSEPLAY_CANCELWAIT" 								 text="Courseplay: Stop bij laatste punt of volgende trigger" />
+		<text name="input_COURSEPLAY_DRIVENOW" 								 text="Courseplay: Nu rijden" />
+		<text name="input_COURSEPLAY_NEXTMODE" 								 text="Courseplay: Volgende modus" />
+		<text name="input_COURSEPLAY_PREVMODE" 								 text="Courseplay: Vorige modus" />
+		<text name="input_COURSEPLAY_MOUSEACTION_PRIMARY" 					 text="Courseplay: Muis actie" />
+		<text name="input_COURSEPLAY_MOUSEACTION_SECONDARY" 					 text="Courseplay: Secundaire muis actie" />
+		<text name="COURSEPLAY_MOUSEARROW_SHOW" 						 text="Toon cursor" />
+		<text name="COURSEPLAY_MOUSEARROW_HIDE" 						 text="Verberg cursor" />
 		<text name="COURSEPLAY_LOAD_COURSE" 						 	 text="Laad route/Invoegen in geladen route" /> 
 		<text name="COURSEPLAY_APPEND_COURSE" 						 	 text="Route bijvoegen" /> 
 		<text name="COURSEPLAY_MOVE_TO_FOLDER" 						 	 text="Verplaats naar map" /> 
 		<text name="COURSEPLAY_DELETE_COURSE" 						 	 text="Verwijder route/map" /> 
-		<text name="COURSEPLAY_VISUALWAYPOINTS_STARTEND"				 text="Toon/verberg 'start en 'eind' markeringen" />
-		<text name="COURSEPLAY_VISUALWAYPOINTS_ALL"						 text="Toon/verberg alle markeringen" />
-		<text name="COURSEPLAY_VISUALWAYPOINTS_CROSSING"				 text="Toon/verberg kruispunten" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_STARTEND"				 text="Toon/verberg 'Start' en 'Eind' markeringen" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_ALL"						 text="Toon/Verberg alle markeringen" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_CROSSING"				 text="Toon/Verberg kruispunten" />
 	</texts>
 </l10n>
